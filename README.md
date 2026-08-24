@@ -21,26 +21,18 @@
 
 <br><br>
 
-<!-- ===================== MACOS STYLED TERMINAL CARD ===================== -->
-<table align="center" width="100%">
-  <tr>
-    <td bgcolor="#0D0714" style="background-color: #0D0714; border: 1px solid #3B0764; border-radius: 10px; padding: 16px;">
-      <p margin="0">🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp;&nbsp; <b><font color="#C084FC">aamina@workspace: ~</font></b></p>
-      <hr color="#3B0764">
-      <br>
-      <font face="Courier, monospace" color="#E9D5FF">
-        <b><font color="#A855F7">aamina@workspace</font>:<font color="#8B5CF6">~</font>$</b> neofetch --user<br>
-        ─────────────────────────────────────────────────<br>
-        <b><font color="#C084FC">OS          ::</font></b> Creative Linux x86_64<br>
-        <b><font color="#C084FC">ROLE        ::</font></b> UI/UX Designer & Creative Technologist 🎨<br>
-        <b><font color="#C084FC">SUPERPOWER  ::</font></b> Bridging Human Psychology with AI & Hardware ⚡<br>
-        <b><font color="#C084FC">FOCUS       ::</font></b> HCI, Search Engine Strategy, Smart Systems<br>
-        <b><font color="#C084FC">CURRENTLY   ::</font></b> Building sleek UIs • Writing clean code • Experimenting<br>
-        <b><font color="#C084FC">COFFEE_LVL  ::</font></b> [<font color="#22C55E">████████████████████</font>] 100% ☕<br>
-      </font>
-    </td>
-  </tr>
-</table>
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<div align="center">
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaminaabatool18/aaminaabatool18/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaminaabatool18/aaminaabatool18/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aaminaabatool18/aaminaabatool18/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
 
 <br>
 
