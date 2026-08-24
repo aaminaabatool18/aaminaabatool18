@@ -10,9 +10,10 @@
 <img src="https://raw.githubusercontent.com/aaminaabatool18/aaminaabatool18/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaminaabatool18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=C084FC&icon_color=C084FC&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aaminaabatool18&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=C084FC&icon_color=C084FC&text_color=FFFFFF&border_radius=15" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaminaabatool18&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=C084FC&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaminaabatool18&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C084FC&text_color=FFFFFF&border_radius=15" width="49%"/>
 
 </div>
